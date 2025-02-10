@@ -1,96 +1,96 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\",
+  "WorkspaceRootPath": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|c:\\users\\pinkw\\desktop\\repos\\nexus\\nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|c:\\users\\pinkw\\desktop\\repos\\nexus\\nexus-utl-1.0\\nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\carbonnotinstalled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\carbonnotinstalled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\carbonnotinstalled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NEXUS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\carbonnotinstalled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\carbonnotinstalled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\carbonnotinstalled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\newspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\newspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\newspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\newspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\newspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\newspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\modulespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\modulespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\modulespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\modulespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\modulespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\modulespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\modulespage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\modulespage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\modulespage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\settingspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\settingspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\settingspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\dllpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\dllpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\dllpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\newspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\newspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\newspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\singleplayerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\singleplayerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\singleplayerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\dllpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\dllpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\dllpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\nexus\\pages\\singleplayerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\pages\\singleplayerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\pages\\singleplayerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -111,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NEXUS MAIN.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\NEXUS MAIN.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\NEXUS MAIN.cs",
               "RelativeDocumentMoniker": "NEXUS\\NEXUS MAIN.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\NEXUS MAIN.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\NEXUS MAIN.cs",
               "RelativeToolTip": "NEXUS\\NEXUS MAIN.cs",
               "ViewState": "AgIAAKYBAAAAAAAAAAAcwLIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,24 +124,20 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "NEXUS",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\NEXUS.csproj",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\NEXUS.csproj",
               "RelativeDocumentMoniker": "NEXUS\\NEXUS.csproj",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\NEXUS.csproj",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\NEXUS.csproj",
               "RelativeToolTip": "NEXUS\\NEXUS.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-19T22:57:54.738Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Program.cs",
               "RelativeDocumentMoniker": "NEXUS\\Program.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Program.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Program.cs",
               "RelativeToolTip": "NEXUS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,10 +147,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "settingsPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\settingsPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\settingsPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\settingsPage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\settingsPage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\settingsPage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\settingsPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T21:30:43.746Z"
             },
@@ -162,10 +158,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "homePage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\homePage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\homePage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\homePage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\homePage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\homePage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\homePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T23:45:21.351Z"
             },
@@ -173,10 +169,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Carbonnotinstalled.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Carbonnotinstalled.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Carbonnotinstalled.cs",
               "RelativeDocumentMoniker": "NEXUS\\Carbonnotinstalled.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Carbonnotinstalled.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Carbonnotinstalled.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Carbonnotinstalled.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T21:12:55.7Z"
             },
@@ -184,21 +180,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NEXUS MAIN.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\NEXUS MAIN.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\NEXUS MAIN.cs",
               "RelativeDocumentMoniker": "NEXUS\\NEXUS MAIN.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\NEXUS MAIN.cs [Design]",
-              "RelativeToolTip": "NEXUS\\NEXUS MAIN.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\NEXUS MAIN.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:01:44.727Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-21T21:01:44.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "settingsPage.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\settingsPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\settingsPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\settingsPage.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\settingsPage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\settingsPage.cs",
               "RelativeToolTip": "NEXUS\\Pages\\settingsPage.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAIwL0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,9 +203,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Carbonnotinstalled.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Carbonnotinstalled.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Carbonnotinstalled.cs",
               "RelativeDocumentMoniker": "NEXUS\\Carbonnotinstalled.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Carbonnotinstalled.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Carbonnotinstalled.cs",
               "RelativeToolTip": "NEXUS\\Carbonnotinstalled.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAvwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,9 +215,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "newsPage.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\newsPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\newsPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\newsPage.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\newsPage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\newsPage.cs",
               "RelativeToolTip": "NEXUS\\Pages\\newsPage.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAswNQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,9 +227,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\app.manifest",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\app.manifest",
               "RelativeDocumentMoniker": "NEXUS\\app.manifest",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\app.manifest",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\app.manifest",
               "RelativeToolTip": "NEXUS\\app.manifest",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -244,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "modulesPage.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\modulesPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\modulesPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\modulesPage.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\modulesPage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\modulesPage.cs",
               "RelativeToolTip": "NEXUS\\Pages\\modulesPage.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAuwF4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,10 +251,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "modulesPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\modulesPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\modulesPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\modulesPage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\modulesPage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\modulesPage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\modulesPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T03:21:37.764Z"
             },
@@ -267,10 +262,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "newsPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\newsPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\newsPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\newsPage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\newsPage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\newsPage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\newsPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T22:34:38.992Z"
             },
@@ -278,9 +273,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "settingsPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\settingsPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\settingsPage.Designer.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\settingsPage.Designer.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\settingsPage.Designer.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\settingsPage.Designer.cs",
               "RelativeToolTip": "NEXUS\\Pages\\settingsPage.Designer.cs",
               "ViewState": "AgIAAPAAAAAAAAAAAAAvwAUBAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -290,10 +285,10 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "dllPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\dllPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\dllPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\dllPage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\dllPage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\dllPage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\dllPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T23:14:41.594Z"
             },
@@ -301,9 +296,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "modulesPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\modulesPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\modulesPage.Designer.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\modulesPage.Designer.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\modulesPage.Designer.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\modulesPage.Designer.cs",
               "RelativeToolTip": "NEXUS\\Pages\\modulesPage.Designer.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAqwJgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,9 +308,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "newsPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\newsPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\newsPage.Designer.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\newsPage.Designer.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\newsPage.Designer.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\newsPage.Designer.cs",
               "RelativeToolTip": "NEXUS\\Pages\\newsPage.Designer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,10 +320,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "SingleplayerPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\SingleplayerPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\SingleplayerPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\SingleplayerPage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\SingleplayerPage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\SingleplayerPage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\SingleplayerPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T22:47:58.261Z"
             },
@@ -336,10 +331,10 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "aboutPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\aboutPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\aboutPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\aboutPage.cs",
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\aboutPage.cs [Design]",
-              "RelativeToolTip": "NEXUS\\Pages\\aboutPage.cs [Design]",
+              "RelativeToolTip": "..\\NEXUS\\Pages\\aboutPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T23:14:40.163Z"
             },
@@ -347,9 +342,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "aboutPage.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\aboutPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\aboutPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\aboutPage.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\aboutPage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\aboutPage.cs",
               "RelativeToolTip": "NEXUS\\Pages\\aboutPage.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAqwDEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,9 +354,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "dllPage.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\dllPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\dllPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\dllPage.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\dllPage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\dllPage.cs",
               "RelativeToolTip": "NEXUS\\Pages\\dllPage.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAApwCcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,9 +366,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "SingleplayerPage.cs",
-              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\SingleplayerPage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\SingleplayerPage.cs",
               "RelativeDocumentMoniker": "NEXUS\\Pages\\SingleplayerPage.cs",
-              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\NEXUS\\Pages\\SingleplayerPage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\SingleplayerPage.cs",
               "RelativeToolTip": "NEXUS\\Pages\\SingleplayerPage.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAiwBgAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
