@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NEXUS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|c:\\users\\pinkw\\desktop\\repos\\nexus\\nexus-utl-1.0\\nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D49FC8-F93B-437A-9F27-CFCD1D8772E5}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\nexus main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -125,8 +125,7 @@
               "RelativeToolTip": "NEXUS\\NEXUS MAIN.cs",
               "ViewState": "AgIAAJoBAAAAAAAAAAAcwLIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:02:07.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T19:02:07.34Z"
             },
             {
               "$type": "Document",
@@ -150,8 +149,7 @@
               "RelativeToolTip": "NEXUS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:43:38.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T17:43:38.342Z"
             },
             {
               "$type": "Document",
@@ -162,8 +160,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\settingsPage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\settingsPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T21:30:43.746Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-11T21:30:43.746Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\homePage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\homePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:45:21.351Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-22T23:45:21.351Z"
             },
             {
               "$type": "Document",
@@ -186,8 +182,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Carbonnotinstalled.cs [Design]",
               "RelativeToolTip": "NEXUS\\Carbonnotinstalled.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T21:12:55.7Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-18T21:12:55.7Z"
             },
             {
               "$type": "Document",
@@ -198,8 +193,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\NEXUS MAIN.cs [Design]",
               "RelativeToolTip": "NEXUS\\NEXUS MAIN.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:01:44.727Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-21T21:01:44.727Z"
             },
             {
               "$type": "Document",
@@ -211,8 +205,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\settingsPage.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAIwL0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T22:27:51.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T22:27:51.036Z"
             },
             {
               "$type": "Document",
@@ -224,8 +217,7 @@
               "RelativeToolTip": "NEXUS\\Carbonnotinstalled.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAvwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T21:52:32.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T21:52:32.443Z"
             },
             {
               "$type": "Document",
@@ -237,8 +229,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\newsPage.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAswNQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:34:40.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:34:40.222Z"
             },
             {
               "$type": "Document",
@@ -250,8 +241,7 @@
               "RelativeToolTip": "NEXUS\\app.manifest",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2025-01-24T03:41:04.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T03:41:04.508Z"
             },
             {
               "$type": "Document",
@@ -263,8 +253,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\modulesPage.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAuwF4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:28:49.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T19:28:49.335Z"
             },
             {
               "$type": "Document",
@@ -275,8 +264,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\modulesPage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\modulesPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T03:21:37.764Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-24T03:21:37.764Z"
             },
             {
               "$type": "Document",
@@ -287,8 +275,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\newsPage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\newsPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:34:38.992Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-23T22:34:38.992Z"
             },
             {
               "$type": "Document",
@@ -300,8 +287,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\settingsPage.Designer.cs",
               "ViewState": "AgIAAPAAAAAAAAAAAAAvwAUBAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T20:35:53.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T20:35:53.634Z"
             },
             {
               "$type": "Document",
@@ -312,8 +298,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\dllPage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\dllPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T23:14:41.594Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-21T23:14:41.594Z"
             },
             {
               "$type": "Document",
@@ -325,8 +310,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\modulesPage.Designer.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAqwJgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T21:52:03.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T21:52:03.299Z"
             },
             {
               "$type": "Document",
@@ -338,8 +322,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\newsPage.Designer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:14:02.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T19:14:02.489Z"
             },
             {
               "$type": "Document",
@@ -350,8 +333,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\SingleplayerPage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\SingleplayerPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T22:47:58.261Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-11T22:47:58.261Z"
             },
             {
               "$type": "Document",
@@ -362,8 +344,7 @@
               "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Utl-1.0\\NEXUS\\Pages\\aboutPage.cs [Design]",
               "RelativeToolTip": "NEXUS\\Pages\\aboutPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T23:14:40.163Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-21T23:14:40.163Z"
             },
             {
               "$type": "Document",
@@ -375,8 +356,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\aboutPage.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAqwDEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:39:05.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T23:39:05.502Z"
             },
             {
               "$type": "Document",
@@ -388,8 +368,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\dllPage.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAApwCcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T03:25:07.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T03:25:07.803Z"
             },
             {
               "$type": "Document",
@@ -401,8 +380,7 @@
               "RelativeToolTip": "NEXUS\\Pages\\SingleplayerPage.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAiwBgAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T03:15:46.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T03:15:46.857Z"
             }
           ]
         }
